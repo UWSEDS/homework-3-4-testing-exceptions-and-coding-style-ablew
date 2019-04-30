@@ -1,0 +1,5 @@
+input: pylint dataframe.py
+output: Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+input: pylint test_dataframe.py
+output: Your code has been rated at 10.00/10 (previous run: 9.76/10, +0.24)
